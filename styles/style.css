@@ -1,0 +1,33 @@
+header {
+  background-color:pink;
+  color:blue;
+  font-size: 23px;
+  text-align: center;
+}
+img{
+  width: 20%;
+}
+.cards{
+  background: pink;
+  width: 25%;
+  border-radius: 2px 2px 2px;
+  box-shadow: 2px 2px 2px blue;
+  text-align: center;
+  padding: 1px;
+  margin: 10px;
+}
+.main{
+  display: flex;
+  //justify-content: space-between;
+}
+.leftDiv{
+  width: 30%;
+  background: #dda;
+  box-shadow: 5px 5px 5px 5px blue;
+}
+.rightDiv{
+  margin: 1%;
+  padding: 1%;
+  background-color: pink;
+  box-shadow: 5px 5px 5px blue;
+}
