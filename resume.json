@@ -1,0 +1,40 @@
+{
+  "profile":{
+    "name":"Jahnavi",
+    "image":"image/image.png",
+    "comname":"APSSDC",
+    "number":"5687777988",
+    "mail":"jgtffhhn@gmail.com",
+    "career":"To have a career in progress in the organization that gives a experience scoope to give any knowledge and technical skill."
+  },
+    "Education":[
+      {
+        "Degree":"B.Tech",
+        "College":"QIS",
+        "Branch":"CSE",
+        "Marks":"80%",
+        "EndDate":"15/04/2020"
+      },
+
+        {
+          "Degree":"Inter",
+          "College":"Sri Chaitanya ",
+          "Branch":"MPC",
+          "Marks":"80%",
+          "EndDate":"15/03/2016"
+        },
+
+          {
+            "Degree":"SSC",
+            "College":"SRI dfefre",
+            "Branch":"English",
+            "Marks":"80%",
+            "EndDate":"15/04/2014"
+          }
+        ],
+          "Skills":{
+            "OS":"Windows 7,Windows8.1,XP",
+            "PS":"HTML,JAVASCRIPT,PHP,C,C++,JAVA"
+
+          }
+}
